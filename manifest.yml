@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: kwongcmhk1ibmcom-apiconnect.apic.mybluemix.net
+  name: myNodeJS
+  host: mynodejs
+  disk_quota: 1024M
